@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Current Version</key><integer>1</integer>
+	<key>Compatible Version</key><integer>1</integer>
+	<key>Application</key><string>iTunes 11.0.2</string>
+	<key>Burner Info</key><string>OPTIARC DVD RW AD-5690H 4AH5</string>
+	<key>Disc ID</key><string>1FDA2D22FD460471</string>
+	<key>Disc Name</key><string>Difusion - Las claves del nuevo DELE A2</string>
+	<key>tracks</key>
+	<array>
+		<dict>
+			<key>Name</key><string>01_claves_a2_pista01</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>14BBB04CB2920F8A</string>
+			<key>Total Time</key><integer>59585</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>3ACD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:38Z</date>
+			<key>Size</key><integer>842775</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>1</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>02_claves_a2_pista02</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>1752FB37C71A01DF</string>
+			<key>Total Time</key><integer>50259</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>3ACD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:38Z</date>
+			<key>Size</key><integer>730866</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>2</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>03_claves_a2_pista03</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>03FB4BBB9C536C03</string>
+			<key>Total Time</key><integer>291552</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>3ACD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:38Z</date>
+			<key>Size</key><integer>3626383</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>3</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>04_claves_a2_pista04</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>8682FCE69DDD5597</string>
+			<key>Total Time</key><integer>62484</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>3ACD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:38Z</date>
+			<key>Size</key><integer>877570</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>4</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>05_claves_a2_pista05</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>843B19468F6CB6E9</string>
+			<key>Total Time</key><integer>91350</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>3ACD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:38Z</date>
+			<key>Size</key><integer>1223953</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>5</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>06_claves_a2_pista06</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>188358209A22D0BF</string>
+			<key>Total Time</key><integer>21420</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>3ACD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:38Z</date>
+			<key>Size</key><integer>384796</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>6</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>07_claves_a2_pista07</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>FF3E49FE0A5B611B</string>
+			<key>Total Time</key><integer>348995</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>3ACD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:38Z</date>
+			<key>Size</key><integer>4315702</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>7</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>08_claves_a2_pista08</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>D5BB070ACA339A6C</string>
+			<key>Total Time</key><integer>127686</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>3ACD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:38Z</date>
+			<key>Size</key><integer>1659989</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>8</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>09_claves_a2_pista09</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>851AF545EDC3B909</string>
+			<key>Total Time</key><integer>62197</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>3ACD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:38Z</date>
+			<key>Size</key><integer>874122</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>9</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>10_claves_a2_pista10</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>94A7897FD06A84D7</string>
+			<key>Total Time</key><integer>23118</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>3ACD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:38Z</date>
+			<key>Size</key><integer>405171</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>10</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>11_claves_a2_pista11</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>E56E26B930AB96E1</string>
+			<key>Total Time</key><integer>210050</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>3ACD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:38Z</date>
+			<key>Size</key><integer>2648358</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>11</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>12_claves_a2_pista12</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>69CD5F0A317A1E5B</string>
+			<key>Total Time</key><integer>98847</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>3ACD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:38Z</date>
+			<key>Size</key><integer>1313919</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>12</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>13_claves_a2_pista13</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>25BF8AC0043C9C8C</string>
+			<key>Total Time</key><integer>197172</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>2493818</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>13</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>14_claves_a2_pista14</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>957CD22A85A7CA2D</string>
+			<key>Total Time</key><integer>304979</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>3787506</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>14</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>15_claves_a2_pista15</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>1BC63AB08A8D8F59</string>
+			<key>Total Time</key><integer>81136</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>1101387</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>15</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>16_claves_a2_pista16</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>12EBC7CA73EC2F66</string>
+			<key>Total Time</key><integer>94066</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>1256554</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>16</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>17_claves_a2_pista17</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>958DC7D7C16A5A61</string>
+			<key>Total Time</key><integer>168333</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>2147748</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>17</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>18_claves_a2_pista18</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>D41B1D3D136DF274</string>
+			<key>Total Time</key><integer>85133</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>1149348</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>18</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>19_claves_a2_pista19</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>6D1BA539CE2ACD44</string>
+			<key>Total Time</key><integer>531983</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>6511555</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>19</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>20_claves_a2_pista20</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>243C2436BA615186</string>
+			<key>Total Time</key><integer>275461</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>3433286</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>20</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>21_claves_a2_pista21</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>6B408C44F5E28802</string>
+			<key>Total Time</key><integer>291918</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>3630771</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>21</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>22_claves_a2_pista22</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>50A7FCD1223A02B9</string>
+			<key>Total Time</key><integer>232881</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>2922331</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>22</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>23_claves_a2_pista23</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>F947415929E7FF6F</string>
+			<key>Total Time</key><integer>187141</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>2373446</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>23</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>24_claves_a2_pista24</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>2D25E25B98C4613A</string>
+			<key>Total Time</key><integer>378279</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>4667101</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>24</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>25_claves_a2_pista25</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>26B025777A14BE0C</string>
+			<key>Total Time</key><integer>222406</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>2796629</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>25</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>26_claves_a2_pista26</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>236D78F48CE733A1</string>
+			<key>Total Time</key><integer>261982</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>3271535</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>26</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>27_claves_a2_pista27</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>B7993DDF573FBF22</string>
+			<key>Total Time</key><integer>216764</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>2728920</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>27</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>28_claves_a2_pista28</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>93BC18F1E7B0FF3B</string>
+			<key>Total Time</key><integer>192235</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>39CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:37Z</date>
+			<key>Size</key><integer>2434572</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>28</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>29_claves_a2_pista29</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>9391AB9582CBC6F5</string>
+			<key>Total Time</key><integer>409678</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>5043891</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>29</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>30_claves_a2_pista30</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>52863C7DD08E0E7C</string>
+			<key>Total Time</key><integer>243644</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>3051480</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>30</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>31_claves_a2_pista31</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>C04B1808184BB9DB</string>
+			<key>Total Time</key><integer>260362</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>3252100</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>31</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>32_claves_a2_pista32</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>FA3EF6971092AF8F</string>
+			<key>Total Time</key><integer>229302</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>2879385</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>32</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>33_claves_a2_pista33</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>69F5E4A1556FA8FC</string>
+			<key>Total Time</key><integer>177214</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>2254327</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>33</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>34_claves_a2_pista34</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>976C7EBED8FDAB0E</string>
+			<key>Total Time</key><integer>334341</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>4139846</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>34</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>35_claves_a2_pista35</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>FC44440494121C75</string>
+			<key>Total Time</key><integer>207804</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>2621400</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>35</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>36_claves_a2_pista36</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>5B2FEF933B42B07A</string>
+			<key>Total Time</key><integer>239934</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>3006967</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>36</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>37_claves_a2_pista37</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>5507636F00106A2A</string>
+			<key>Total Time</key><integer>210886</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>2658389</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>37</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>38_claves_a2_pista38</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>8F23B19514430033</string>
+			<key>Total Time</key><integer>169848</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>2165929</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>38</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>39_claves_a2_pista39</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>E961BCE15C0ACF65</string>
+			<key>Total Time</key><integer>304457</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>3781237</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>39</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>40_claves_a2_pista40</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>2AF14B89008C03F6</string>
+			<key>Total Time</key><integer>198164</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>2505730</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>40</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>41_claves_a2_pista41</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>2FA98D5217C6224A</string>
+			<key>Total Time</key><integer>237217</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>2974367</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>41</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>42_claves_a2_pista42</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>906A125427A1B909</string>
+			<key>Total Time</key><integer>169978</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>2167496</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>42</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+		<dict>
+			<key>Name</key><string>43_claves_a2_pista43</string>
+			<key>Artist</key><string>Difusion</string>
+			<key>Album</key><string>Las claves del nuevo DELE A2</string>
+			<key>Persistent ID</key><string>095CFC6A36128DC9</string>
+			<key>Total Time</key><integer>182386</integer>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Date</key><string>38CD50CD</string>
+			<key>Date Modified</key><date>2013-02-25T08:11:36Z</date>
+			<key>Size</key><integer>2316394</integer>
+			<key>Supports ID3 Tags</key><true/>
+			<key>Numeric Path</key><string>43</string>
+			<key>File Extension</key><string>mp3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
